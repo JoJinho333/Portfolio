@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jinho&fontSize=90)
+
 # Portfolio
 #### 빅데이터 분석
 
@@ -11,6 +13,8 @@
 ##### 한국전자통신연구원(ETRI) 연구원으로 재직중 (2021.09 ~ )
 
 # Tech
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 ##### Python, R, SQL, Java, C, Springboot, Kotlin
 
 # Project
