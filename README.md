@@ -13,7 +13,7 @@
 ##### 공공빅데이터 청년인턴십 교육 (2021.06 ~ 2021.08)
 ##### 한국전자통신연구원(ETRI) 연구원으로 재직중 (2021.09 ~ )
 
-# Tech
+# Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
