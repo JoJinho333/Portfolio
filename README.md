@@ -15,7 +15,7 @@
 ##### 한국전자통신연구원(ETRI) 연구원으로 근무 (2021.09 ~ 2022.02)
 ##### 메타버스 아카데미, 메타버스 & 데이터 분석 교육 수강 (2022.05 ~ 2022.06)
 ##### KT AIVLE SCHOOL, AI개발자 트랙 수강중 (2022.07 ~ 2023.01)
-##### KT is IT개발자 인턴(2023.03 ~ )
+##### KT is IT개발자 인턴 (2023.03 ~ )
 
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
